@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Bell tower",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e94ec00bb0b51054269e71351d6867b177a2b0c5ad8e6036915d34b1102f54fb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1138.4034423828125,1268.478515625,319.4803466796875,312.115966796875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9b6c679a-c8e8-4294-bb77-6cb23cec59de"
+  }
+]
