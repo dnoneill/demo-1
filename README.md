@@ -1,3 +1,5 @@
+<param ve-config title="Ann Arbor, MI" author="Ron" layout="vertical">
+
 # Ann Arbor
 
 Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann Arbor is also included in the larger Greater Detroit Combined Statistical Area.
