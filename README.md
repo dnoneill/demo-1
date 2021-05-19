@@ -1,4 +1,4 @@
-<param ve-config title="Ann Arbor, MI" author="Ron" layout="vertical">
+<param ve-config title="Ann Arbor, MI" author="Ron" layout="vertical" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Downtown_Ann_Arbor%2C_2020-05-05.jpg/1024px-Downtown_Ann_Arbor%2C_2020-05-05.jpg">
 
 <param ve-entity eid="Q485172"> 
 
