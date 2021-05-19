@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#9b6c679a-c8e8-4294-bb77-6cb23cec59de"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pizza place",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e94ec00bb0b51054269e71351d6867b177a2b0c5ad8e6036915d34b1102f54fb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2701.62548828125,2216.8984375,291.8515625,160.494384765625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1a4713db-9ca4-4e30-bf9f-8f36290395cc"
   }
 ]
